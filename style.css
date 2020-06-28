@@ -1,0 +1,41 @@
+.mainDiv{
+
+    width:   190px ;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    border: 2px solid black;
+}
+
+.result{
+    width: 95%;
+    background-color: royalblue;
+    color: #fff;
+}
+
+.clearBtn{
+    width: 90% ;
+    border-radius: 5pc;
+    margin: 10px;
+    background-color:  royalblue;
+}
+
+
+.btn{
+    width: 20% ;
+    margin: 3px;
+    border-radius: 10px;
+    background-color: royalblue;
+}
+
+.btnZero{
+    width: 72%;
+    margin: 2px;
+    background-color: royalblue;
+    border-radius: 3px;
+}
+
+.btnEqual{
+    width: 20%;
+    background-color: royalblue;
+    border-radius: 10px;
+}
